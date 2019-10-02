@@ -43,6 +43,7 @@
     "@types/jasmine": "~2.8.8",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "~8.9.4",
+    "angular-resize-event": "^1.1.1",
     "codelyzer": "~4.5.0",
     "core-js": "^2.5.4",
     "jasmine-core": "~2.99.1",
@@ -65,6 +66,7 @@
     "@angular/common": "^7.0.0 <8",
     "@angular/core": "^7.0.0 <8",
     "@angular/platform-browser": "^7.0.0 <8",
+    "angular-resize-event": "^1.1.1",
     "rxjs": "^6.3.3"
   }
 }
